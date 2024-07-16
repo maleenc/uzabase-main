@@ -31,10 +31,10 @@ java Main2 --input=<inputType> --inputSource=<inputSource> --operation=<operatio
 
 #### Required Parameters
 
-- `--input`: Specifies the input type.
-- `--inputSource`: Specifies the source of the input.
-- `--operation`: Specifies the operation to be performed.
-- `--output`: Specifies the output type.
+- `--input`: Specifies the input type. Possible values are rss and csv.
+- `--inputSource`: Specifies the source of the input. It can be either rss link or path to a local csv file
+- `--operation`: Specifies the operation to be performed. Values can be trim, replace or trim&replace
+- `--output`: Specifies the output type. Values can be file or print.
 
 #### Optional Parameters
 
