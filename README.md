@@ -91,3 +91,9 @@ java Main2 --input=text --inputSource=https://example.com/input.txt --operation=
 This command specifies the input type as text from a URL, performs a replace operation, and outputs the result to a specified file.
 
 By following these instructions, you should be able to compile and run your Java program with the appropriate command-line arguments.
+
+### Class Diagram
+
+Link - https://drive.google.com/file/d/12Fwg2co8yTU9DdXWyC_hwyjZU3J7QRmP/view?usp=sharing
+
+![Uzabase-Processor (1)](https://github.com/user-attachments/assets/a48f4545-423e-4a0e-ac4c-8e0127677eb9)
